@@ -93,3 +93,6 @@ An example environment file is included in `.env.example`. Do not commit real se
 Prepared for the assessment submission. If you want, I can now:
 - Add test DB isolation (transactions or a dedicated test DB) and update tests to clean up automatically, or
 - Export a Postman collection and include it in the repository.
+
+## postman collection
+https://web.postman.co/workspace/mern-crash-cource~f8068d8e-fa8f-424e-96f4-f5b3a738409a/collection/42228166-535ac04a-826f-4181-ba0b-27a7866412b3?action=share&source=copy-link&creator=42228166
